@@ -1817,7 +1817,7 @@ const OrderList = ({ setIsCashRegisterOpen }) => {
         </div>
       </DialogBoxSmall>
 
-      {/* Add Customer */}
+
       <DialogBoxSmall
         isOpen={cModal}
         title={"Add Customer"}
